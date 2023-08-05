@@ -22,3 +22,4 @@ An example **db-config.xml** will look like below with for this config:
 Important Links
 https://cwiki.apache.org/confluence/display/solr/DataImportHandlerFaq#head-149779b72761ab071c841879545256bdbbdc15d2
 https://issues.apache.org/jira/browse/SOLR-1348
+https://cwiki.apache.org/confluence/display/solr/DataImportHandler
